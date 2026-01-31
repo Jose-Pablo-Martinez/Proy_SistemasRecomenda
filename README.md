@@ -13,9 +13,9 @@ A continuación se presenta a los integrantes del equipo:
 
 | Foto | Información |
 | :---: | :--- |
-| <img src="assets/foto_integrante1.jpg" width="100"> | **Alejandro Lopez Maldonado** <br> *Rol* <br> [GitHub Profile](pendiente) |
-| <img src="assets/foto_integrante2.jpg" width="100"> | **Rodrigo Alonzo Palacios** <br> *Rol (ej. Frontend, Documentación)* <br> [GitHub Profile](pendiente) |
-| <img src="assets/foto_integrante3.jpg" width="100"> | **José Pablo Martínez Martínez** <br> *Rol (ej. Tester, DB Admin)* <br> [GitHub Profile](https://github.com/Jose-Pablo-Martinez) |
+| <img src="assets/foto_integrante1.jpg" width="100"> | **Alejandro Lopez Maldonado** <br> [GitHub Profile](pendiente) |
+| <img src="assets/foto_integrante2.jpg" width="100"> | **Rodrigo Alonzo Palacios** * <br> [GitHub Profile](https://github.com/AlonPal09) |
+| <img src="assets/JoseMartinez.jpg" width="100"> | **José Pablo Martínez Martínez** <br> [GitHub Profile](https://github.com/Jose-Pablo-Martinez) |
 
 
 ---
@@ -24,13 +24,13 @@ A continuación se presenta a los integrantes del equipo:
 
 Este repositorio contiene las evidencias y código fuente organizados por etapas de entrega:
 
-### [📁 Entrega 1](./Entrega_1)
+### [📁 Entrega 1](https://github.com/Jose-Pablo-Martinez/Proy_SistemasRecomenda/tree/Entrega_1)
 * **Fecha:** 
 * **Descripción:** 
-* [Ver detalle de la entrega >](./Entrega_1)
+* [Ver detalle de la entrega >](.https://github.com/Jose-Pablo-Martinez/Proy_SistemasRecomenda/tree/Entrega_1)
 
-### [📁 Entrega 2](./Entrega_2)
+### [📁 Entrega 2](https://github.com/Jose-Pablo-Martinez/Proy_SistemasRecomenda/tree/Entrega_2)
 * **Fecha:** 
 * **Descripción:**
-* [Ver detalle de la entrega >](./Entrega_2)
+* [Ver detalle de la entrega >]([./Entrega_2](https://github.com/Jose-Pablo-Martinez/Proy_SistemasRecomenda/tree/Entrega_2))
 
