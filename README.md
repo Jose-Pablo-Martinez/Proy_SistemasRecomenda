@@ -14,7 +14,7 @@ A continuación se presenta a los integrantes del equipo:
 | Foto | Información |
 | :---: | :--- |
 | <img src="assets/foto_integrante1.jpg" width="200"> | **Alejandro Lopez Maldonado** <br> [GitHub Profile](pendiente) |
-| <img src="assets/foto_integrante2.jpg" width="200"> | **Rodrigo Alonzo Palacios**  <br> [GitHub Profile](https://github.com/AlonPal09) |
+| <img src="assets/Rodrigo Alonzo.jpeg" width="200"> | **Rodrigo Alonzo Palacios**  <br> [GitHub Profile](https://github.com/AlonPal09) |
 | <img src="assets/JoseMartinez.jpg" width="200"> | **José Pablo Martínez Martínez** <br> [GitHub Profile](https://github.com/Jose-Pablo-Martinez) |
 
 
